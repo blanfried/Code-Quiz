@@ -12,7 +12,7 @@ let availableQuestions = []
 
 let questions = [
       {
-            question: 'What is \{ called?',
+            question: 'What is \"\{\" called?',
             choice1: 'Bracket',
             choice2: 'Curly bracket',
             choice3: 'Comma',
@@ -36,7 +36,7 @@ let questions = [
             answer: 4,
       },
       {
-            question: 'What does "true" translate to if it is made a number?',
+            question: 'What does \"true\" translate to if it is made a number?',
             choice1: '1',
             choice2: '0',
             choice3: '2',
