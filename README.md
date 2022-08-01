@@ -15,4 +15,7 @@ https://blanfried.github.io/Code-Quiz/
 
 
 ### Webpage Screenshot
-![Password Gen Screenshot](./assets/images/Password%20Generator%20Screenshot.png)
+![index.html screenshot](./assets/images/index.html%20screenshot.png)
+![game.html screenshot](./assets/images/game.html%20screenshot.png)
+![end.html screenshot](./assets/images/end.html%20screenshot.png)
+![highscores.html screenshot](./assets/images/highscores.html%20screenshot.png)
