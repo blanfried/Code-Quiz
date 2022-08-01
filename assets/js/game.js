@@ -69,7 +69,7 @@ if (minutes < 1 && seconds == 0){
       clearInterval(timer)
       alert("Out of time")
       localStorage.setItem("mostRecentScore", score);
-      window.location.href = '/Users/baerlanfried/Code-Quiz/end.html'
+      window.location.href = 'end.html'
 }
 }
 
@@ -81,7 +81,7 @@ getNewQuestion = () => {
 if (availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
       localStorage.setItem('mostRecentScore', score)
 
-      return window.location.assign('/Users/baerlanfried/Code-Quiz/end.html')
+      return window.location.assign('end.html')
 }
 // question increment by 1 out of 4, then 2 out of 4, etc.
 questionCounter++
